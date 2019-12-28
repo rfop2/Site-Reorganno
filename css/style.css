@@ -35,8 +35,8 @@ nav a {
   text-decoration: none;
   padding: 17px 0;
   color: #eee;
-  text-decoration: none;
 }
+
 nav ul li:hover {
   border-bottom: 5px solid #ffffff;
 }
@@ -61,7 +61,7 @@ nav a#openup {
 /* parte da tela q tem o produto */
 .Produto {
   background: 
-  url('../img/produto.png') no-repeat center/cover;
+  url('../img/hidratante-mockup4.png') no-repeat center/cover;
   width: 100%;
   overflow-y:hidden;
   max-width: 100%; 
